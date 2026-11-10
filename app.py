@@ -5,7 +5,7 @@ import streamlit as st
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-MODEL_PATH = ROOT / "model" / "loan_approval_xgboost.pkl"
+MODEL_PATH = ROOT / "model" / "loan_approval_xgboost (1).pkl"
 
 st.set_page_config(
     page_title="Loan Approval Predictor",
