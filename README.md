@@ -7,7 +7,7 @@ https://loan-approval-system-technexus-neqhjn5cvldr32ddx3meus.streamlit.app/
 
 
 ## Project structure
-
+ 
 ```text
 Loan-Approval-System/
 ├── dataset/
