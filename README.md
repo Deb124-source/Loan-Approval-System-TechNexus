@@ -1,4 +1,4 @@
-# Loan Approval Prediction System
+# Loan Approval Prediction System. 
 
 A simple end-to-end machine learning project using Python, XGBoost and Streamlit. There is no backend or API server: Streamlit loads the trained model and makes predictions directly.
 
